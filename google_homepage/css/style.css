@@ -169,3 +169,29 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 .footerli a:hover {
   text-decoration: underline;
 }
+/* new******************************************************************** */
+
+.foot1 {
+  margin: 0;
+  padding: 1px 0 0 25px;
+  overflow: hidden;
+  position: fixed;
+  bottom: 72px;
+  width: 100%;
+  margin-left: -8px;
+  line-height: 15px;
+  background-color: #f2f2f2;
+}
+
+.foot2 {
+  float: left;
+}
+
+.foot2 a {
+  display: block;
+  color: #70757a;
+  text-align: center;
+  text-decoration: none;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+}
